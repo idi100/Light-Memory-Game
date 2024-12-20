@@ -56,7 +56,6 @@ Add your screen recordings for specified implemented features here:
 [Winning screen recording]
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://www.loom.com/share/03ba788b0e3a4a7099b325a2a7ae9e7d?sid=8bcea86c-32d7-43b6-a12b-95718ad9909c)
 
 
 ## License
